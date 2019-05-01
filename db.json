@@ -4,7 +4,7 @@
             "id": 0,
             "name": "John Doe",
             "email": "john.doe@email.com",
-            "birthDate": "30-01-1990",
+            "birthDate": "1990-30-01",
             "address": {
                 "id": 0,
                 "street": "924  Shadowmar Drive",
@@ -18,7 +18,7 @@
             "id": 1,
             "name": "Jane Roe",
             "email": "jane.roe@email.com",
-            "birthDate": "01-12-1988",
+            "birthDate": "1988-12-01",
             "address": {
                 "id": 1,
                 "street": "4441  Prospect Street",
