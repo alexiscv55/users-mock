@@ -1,0 +1,32 @@
+{
+    "users": [
+        { 
+            "id": 0,
+            "name": "John Doe",
+            "email": "john.doe@email.com",
+            "birthDate": "30-01-1990",
+            "address": {
+                "id": 0,
+                "street": "924  Shadowmar Drive",
+                "state": "LA",
+                "city": "New Orleans",
+                "country": "US",
+                "zip": "70125"
+            }
+        },
+        { 
+            "id": 1,
+            "name": "Jane Roe",
+            "email": "jane.roe@email.com",
+            "birthDate": "01-12-1988",
+            "address": {
+                "id": 1,
+                "street": "4441  Prospect Street",
+                "state": "NJ",
+                "city": "Camden",
+                "country": "US",
+                "zip": "08102"
+            }
+        }
+    ]
+}
