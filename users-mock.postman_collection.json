@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "fd54badf-359b-43f1-9ba8-d6f64c7e1128",
+		"_postman_id": "9c410cbb-3c30-484b-b59f-329418579fdc",
 		"name": "users-mock",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -45,7 +45,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"name\": \"New\",\n    \"email\": \"new.user@email.com\",\n    \"birthDate\": \"07-07-1999\",\n    \"address\": {\n        \"street\": \"Fake St.\",\n        \"state\": \"CA\",\n        \"city\": \"San Francisco\",\n        \"country\": \"US\",\n        \"zip\": \"01234\"\n    }\n}"
+					"raw": "{\n    \"name\": \"New\",\n    \"email\": \"new.user@email.com\",\n    \"birthDate\": \"1999-07-07\",\n    \"address\": {\n        \"street\": \"Fake St.\",\n        \"state\": \"CA\",\n        \"city\": \"San Francisco\",\n        \"country\": \"US\",\n        \"zip\": \"01234\"\n    }\n}"
 				},
 				"url": {
 					"raw": "https://my-json-server.typicode.com/alexiscv55/users-mock/users",
@@ -106,7 +106,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"name\": \"New\",\n    \"email\": \"new.user@email.com\",\n    \"birthDate\": \"07-07-1999\",\n    \"address\": {\n        \"street\": \"Fake St.\",\n        \"state\": \"CA\",\n        \"city\": \"San Francisco\",\n        \"country\": \"US\",\n        \"zip\": \"01234\"\n    }\n}"
+					"raw": "{\n    \"name\": \"New\",\n    \"email\": \"new.user@email.com\",\n    \"birthDate\": \"1999-07-07\",\n    \"address\": {\n        \"street\": \"Fake St.\",\n        \"state\": \"CA\",\n        \"city\": \"San Francisco\",\n        \"country\": \"US\",\n        \"zip\": \"01234\"\n    }\n}"
 				},
 				"url": {
 					"raw": "https://my-json-server.typicode.com/alexiscv55/users-mock/users/0/",
